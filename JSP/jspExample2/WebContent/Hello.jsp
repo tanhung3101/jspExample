@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is the first JSP attempt file
+This is the first JSP attempt file2
 </body>
 </html>
